@@ -1,0 +1,57 @@
+
+#bottone{
+  width: 160px;
+  height: 50px;
+  background-color: lightblue;
+  border-radius: 10px;
+  padding-top: 25px;
+  padding-bottom: 15px;
+  padding-right: 16px;
+  padding-left: 16px;
+  position: relative;
+  left: 45%;
+  font-family: 'Cormorant SC', serif;
+  text-align: center;
+  color :blue;
+  font-weight: bold;
+}
+
+.testo{
+  font-family: 'Cormorant SC', serif;
+  font-weight: bold;
+}
+
+
+#Discord{
+  border-radius: 15px;
+}
+
+#bottone:hover{
+  width: 160px;
+  height: 50px;
+  background-color: blue;
+  border-radius: 10px;
+  padding-top: 25px;
+  padding-bottom: 15px;
+  padding-right: 16px;
+  padding-left: 16px;
+  position: relative;
+  left: 45%;
+  text-align: center;
+  color :lightblue;
+  font-family: 'Cormorant SC', serif;
+  font-weight: bold;
+}
+
+#barra_in_alto{
+  border-radius: 10px;
+  width: 100%;
+  height: 20px;
+  text-align: center;
+  font-family: 'Cormorant SC', serif;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  background-color:lightcyan;
+  position: static;
+  top: 0px;
+}
