@@ -1,19 +1,21 @@
 
 #bottone{
+  font-family: 'Cormorant SC', serif;
+  font-weight: bold;
+  text-decoration: none;
   width: 160px;
   height: 50px;
   background-color: lightblue;
   border-radius: 10px;
   padding-top: 25px;
   padding-bottom: 15px;
+  padding-top: 16px;
   padding-right: 16px;
   padding-left: 16px;
   position: relative;
-  left: 45%;
-  font-family: 'Cormorant SC', serif;
   text-align: center;
   color :blue;
-  font-weight: bold;
+  left: 46.9%;
 }
 
 .testo{
@@ -27,20 +29,22 @@
 }
 
 #bottone:hover{
+  font-family: 'Cormorant SC', serif;
+  font-weight: bold;
+  text-decoration: none;
   width: 160px;
   height: 50px;
-  background-color: blue;
+  background-color:blue;
   border-radius: 10px;
   padding-top: 25px;
   padding-bottom: 15px;
+  padding-top: 16px;
   padding-right: 16px;
   padding-left: 16px;
   position: relative;
-  left: 45%;
   text-align: center;
   color :lightblue;
-  font-family: 'Cormorant SC', serif;
-  font-weight: bold;
+  left: 46.9%;
 }
 
 #barra_in_alto{
@@ -54,5 +58,10 @@
   background-color:lightcyan;
   position: static;
   top: 0px;
+  margin-right: auto;
+}
+
+body{
+  background-color: white;
 }
 
